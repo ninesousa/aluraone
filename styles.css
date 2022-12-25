@@ -155,7 +155,7 @@ footer {
   height: 30px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .imgtop {
     border-radius: 5px;
     width: 50px;
